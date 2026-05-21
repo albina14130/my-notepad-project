@@ -1,4 +1,4 @@
-#ifndef NOTEPAD_EXCEPTION_H
+# ifndef NOTEPAD_EXCEPTION_H
 #define NOTEPAD_EXCEPTION_H
 
 #include <stdexcept>

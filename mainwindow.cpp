@@ -1,4 +1,4 @@
-#include "mainwindow.h"
+#i nclude "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "notepad_exception.h"
 #include <QFile>
