@@ -1,4 +1,4 @@
- #include "spell_highlighter.h"
+#include "spell_highlighter.h"
 
 SpellHighlighter::SpellHighlighter(QTextDocument *parent, const std::set<std::string> &dict)
         : QSyntaxHighlighter(parent), dictionary(dict) {
