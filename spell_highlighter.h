@@ -1,4 +1,4 @@
-#ifndef SPELL_HIGHLIGHTER_H
+ #ifndef SPELL_HIGHLIGHTER_H
 #define SPELL_HIGHLIGHTER_H
 
 #include <QSyntaxHighlighter>
